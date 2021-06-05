@@ -16,7 +16,6 @@
     <th>
          <input type="text" id="name" name="name">
     </th>
-    </tr>
     <tr>
     <th>
         <label for="email">Email</label>
@@ -24,7 +23,6 @@
     <th>
         <input type="text" id="email" name="email">
     </th>
-    </tr>
     <tr>
     <th>
         <label for="password">Password</label>
@@ -32,7 +30,6 @@
     <th>
         <input type="password" id="password" name="password">
     </th>
-    </tr>
     <tr>
     <th>
         <label for="comment">Comment</label>
@@ -40,7 +37,6 @@
     <th>
         <textarea name="comment" id="" cols="30" rows="10"></textarea>
     </th>
-    </tr>
     <tr>
     <th>
         <label for="fname">Gender:</label>
@@ -53,7 +49,6 @@
         <input type="radio" id="other" name="gender" value="other">
         <label for="other">Other</label>
     </th>
-    </tr>
     <tr>
     <th>
         <label for="fname">Please select hobby:</label>
@@ -66,7 +61,6 @@
         <label for="Reading">Reading</label>
         <input type="checkbox" id="hobby" name="hobby" value="Reading">
     </th>
-    </tr>
     <tr>
     <th>
         <label for="fname">Please chose files:</label>
@@ -74,13 +68,11 @@
     <th>
         <input type="file" name="image" id="image" />
     </th>
-    </tr>
     <tr>
     <th>
         <input type="submit" value="Submit">
         <input type="reset" value="reset">
     </th>
-    </tr>
 </table>
 </form>
 </body>
